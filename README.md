@@ -1,6 +1,7 @@
 # Project name: Are You Marvel Fan?
 
-![CLI app](cli.png)
+![](CLI-1.png) ![](CLI-2.png) 
+![](CLI-3.png) ![](CLI-4.png)
 
 Project Description:- In this project, I created a CLI (Command line Interface) App. Which is basically a quiz app bansed an information on MCU(Marvel Cinematic Universe). Through this, I find out how much you know abou marvel comics. 
 
@@ -10,7 +11,7 @@ Details about project :- I use _**ReadlineSync**_ for user communication.
 i use _**CHALK**_ for styling and color
 I use _**Boxen**_ for created a box in this app.
 
-[Link](https://replit.com/@mdmoinuddin3/Mark-1#index.jsembed=1&output=1)
+[Link](https://replit.com/@mdmoinuddin3/Mark-2#index.jsembed=1&output=1)
 
 1. This is basically a fun quiz app.
 2. where is question about MCU comics.
