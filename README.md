@@ -26,7 +26,7 @@ So Don't worry, Just play & fun :)
 In the end don't forget to checkout your final score out of 10 points.
 
 
-# Teck stack
+# Tech stack
 
 1. Javascript
 2. readlinesync (for commuication and take input from user)
