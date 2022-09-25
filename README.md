@@ -29,6 +29,6 @@ In the end don't forget to checkout your final score out of 10 points.
 # Teck stack
 
 1. Javascript
-2. readlinesync
-3. CHALK 
-4. Boxen
+2. readlinesync (for commuication and take input from user)
+3. CHALK         (for colour text and styling)
+4. Boxen         (for insert boxen)
