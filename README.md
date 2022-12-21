@@ -32,3 +32,10 @@ In the end don't forget to checkout your final score out of 10 points.
 2. readlinesync (for commuication and take input from user)
 3. CHALK         (for colour text and styling)
 4. Boxen         (for insert boxen)
+
+## Screenshot:--
+
+![image](https://user-images.githubusercontent.com/114233774/208834554-0149924a-5815-4a6b-baf2-560b8290fe80.png)
+
+![image](https://user-images.githubusercontent.com/114233774/208834719-c6dcac7e-c6f4-4aae-ad2f-4aab94005f39.png)
+
